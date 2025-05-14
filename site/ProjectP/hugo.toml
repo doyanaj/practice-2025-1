@@ -1,0 +1,5 @@
+baseURL = 'ho'
+languageCode = "en-us"
+title = "Practice"
+languageCode = "ru-ru"
+theme = "paige"
