@@ -11,6 +11,7 @@ defaultcontentlanguage = "ru"
   info = "Исследование и внедрение современных цифровых решений для оптимизации работы над учебными проектами в Московском Политехе"
   colorScheme = "auto"
   hidecolorschemetoggle = false
+  dateFormat = "02.01.2006"
 
 [[menu.main]]
   identifier = "about"

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Journal.mds on Проектная практика 2025</title>
+    <link>http://localhost:1313/journal.md/</link>
+    <description>Recent content in Journal.mds on Проектная практика 2025</description>
+    <generator>Hugo</generator>
+    <language>ru</language>
+    <lastBuildDate>Sun, 09 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/journal.md/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Анализ цифровой инфраструктуры</title>
+      <link>http://localhost:1313/journal.md/analysis/</link>
+      <pubDate>Sun, 09 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/journal.md/analysis/</guid>
+      <description>&lt;hr&gt;&#xA;&lt;p&gt;&lt;strong&gt;Цель:&lt;/strong&gt; Выявление слабых мест в текущей системе.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Результаты:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Устаревший интерфейс личных кабинетов&lt;/li&gt;&#xA;&lt;li&gt;Отсутствие фильтрации и сортировки проектов&lt;/li&gt;&#xA;&lt;li&gt;Новая версия личного кабинета недоступна преподавателям&lt;/li&gt;&#xA;&lt;li&gt;Данные в кабинете представлены неполно.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/analysis.png&#34; alt=&#34;Личный кабинет студента&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/lk-educator.png&#34; alt=&#34;Личный кабинет преподавателя&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Планы:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Снижение информационного шума&lt;/li&gt;&#xA;&lt;li&gt;Редизайн интерфейса&lt;/li&gt;&#xA;&lt;li&gt;Добавление филтрации и сортировки&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>
